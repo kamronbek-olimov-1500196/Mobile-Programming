@@ -121,5 +121,7 @@ void main() {
   //account.displayInfo();
   //student.displayInfo();
   // myBook.displayInfo();
-  // myCar.displayInfo();
+   myCar.displayInfo();
 }
+
+
